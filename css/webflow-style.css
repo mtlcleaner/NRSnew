@@ -3086,7 +3086,6 @@ blockquote {
 }
 
 .max-width-30rem {
-  color: var(--black);
   max-width: 33.33vw;
 }
 
@@ -3117,7 +3116,7 @@ blockquote {
 
 .hero-title.flip-from-bottom-animation {
   color: #00bfff;
-  font-weight: 300;
+  font-weight: 100;
 }
 
 .max-width-20rem {
@@ -4002,12 +4001,6 @@ blockquote {
   align-self: auto;
   font-size: 3.33vw;
   line-height: 3.89vw;
-}
-
-.text-span {
-  color: #00bfff;
-  font-family: Inter, sans-serif;
-  font-weight: 300;
 }
 
 @media screen and (max-width: 991px) {
